@@ -1,2 +1,2 @@
-# DLinBankingBook
-Repository for Deep Learning in Banking book, by Bravo et al. (2025)
+# Deep Learning in Banking Book
+Public repository with for Deep Learning in Banking book, by Bravo, Maldonado and Óskarsdóttir (2025)
