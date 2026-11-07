@@ -11,6 +11,6 @@ One notebook per chapter, each ready to run on Google Colab. Chapters 2, 4 and 7
 | 4 | [TextBook_Lab_Chap4_Textual_Data.ipynb](TextBook_Lab_Chap4_Textual_Data.ipynb) | **Original case of the book**, corrected in 2026. Fed speeches and next month's economic activity index (CFNAI). |
 | 5 | [TextBook_Lab_Chap5_Networks.ipynb](TextBook_Lab_Chap5_Networks.ipynb) | Graph neural networks for mortgage default. |
 | 6 | [TextBook_Lab_Chap6_LLM.ipynb](TextBook_Lab_Chap6_LLM.ipynb) | Prompt engineering and fine-tuning of an LLM. |
-| 7 | [TextBook_Lab_Chap7_Payment_Sequences.ipynb](TextBook_Lab_Chap7_Payment_Sequences.ipynb) | **New case (2026).** Mortgage application data and 24-month payment histories as two modalities: early, late and residual fusion of a GRU with LightGBM, against hand-made features and a placebo. |
+| 7 | [TextBook_Lab_Chap7_Payment_Sequences.ipynb](TextBook_Lab_Chap7_Payment_Sequences.ipynb) | **New case (2026).** Mortgage application data and 24-month payment histories as two modalities: intermediate, late and residual fusion of a GRU with LightGBM, against hand-made features and a placebo. |
 | 7 | [TextBook_Lab_Chap7_Multimodal_Data.ipynb](TextBook_Lab_Chap7_Multimodal_Data.ipynb) | **Original case of the book.** Time series, static variables, images and text in one model. |
 | 8 | [TextBook_Lab_Chap8_FairnessandExplainability.ipynb](TextBook_Lab_Chap8_FairnessandExplainability.ipynb) | Fairness and explainability. |
