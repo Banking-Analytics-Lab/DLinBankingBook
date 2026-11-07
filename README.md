@@ -1,7 +1,7 @@
 # Deep Learning in Banking Book
 Public repository with for Deep Learning in Banking book, by Bravo, Maldonado and Óskarsdóttir (2026)
 
-The labs are in [Labs](Labs). Chapters 2 and 4 have a new case (2026), which replaces the case printed in the book; the original cases are kept there, corrected.
+The labs are in [Labs](Labs). Chapters 2, 4 and 7 have a new case (2026), which replaces the case printed in the book; the original cases are kept there.
 
 ## How to cite
 
