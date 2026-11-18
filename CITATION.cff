@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use these labs, please cite the book below."
+title: "DLinBankingBook"
+license: Apache-2.0
+authors:
+  - family-names: "Bravo"
+    given-names: "Cristián"
+  - family-names: "Maldonado"
+    given-names: "Sebastián"
+  - family-names: "Óskarsdóttir"
+    given-names: "María"
+repository-code: "https://github.com/Banking-Analytics-Lab/DLinBankingBook"
+preferred-citation:
+  type: book
+  title: "Deep Learning in Banking: Integrating Artificial Intelligence for Next-Generation Financial Services"
+  year: 2026
+  month: 1
+  publisher:
+    name: "John Wiley & Sons"
+  isbn: "978-1-394-29537-1"
+  authors:
+    - family-names: "Bravo"
+      given-names: "Cristián"
+    - family-names: "Maldonado"
+      given-names: "Sebastián"
+    - family-names: "Óskarsdóttir"
+      given-names: "María"
