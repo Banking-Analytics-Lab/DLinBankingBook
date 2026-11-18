@@ -18,4 +18,4 @@ Bravo, C., Maldonado, S., and Óskarsdóttir, M. (2026). *Deep Learning in Banki
 }
 ```
 
-The e-book (ISBN 978-1-394-29538-8) appeared at the end of 2025, before the print edition of January 2026. Its copyright page gives 2026, so please cite 2026 for either edition.
+The e-book (ISBN 978-1-394-29539-5) appeared at the end of 2025, before the print edition of January 2026. Its copyright page gives 2026, so please cite 2026 for either edition.
