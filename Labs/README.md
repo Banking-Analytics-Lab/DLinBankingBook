@@ -1,6 +1,6 @@
 # Labs
 
-One notebook per chapter, each ready to run on Google Colab. Chapters 2, 4 and 7 have two cases: the new case, which replaces the case printed in the book, and the original case, kept (and, for Chapters 2 and 4, corrected).
+One notebook per chapter, each ready to run on Google Colab. Chapters 2, 4 and 7 have two cases: the new case, which replaces the case printed in the book, and the original case, kept (and, for Chapters 2 and 4, corrected). The last lab is new (2026) and goes beyond the chapters of the book.
 
 | Chapter | Notebook | Case |
 |---|---|---|
@@ -14,3 +14,4 @@ One notebook per chapter, each ready to run on Google Colab. Chapters 2, 4 and 7
 | 7 | [TextBook_Lab_Chap7_Payment_Sequences.ipynb](TextBook_Lab_Chap7_Payment_Sequences.ipynb) | **New case (2026).** Mortgage application data, 24-month payment histories and the loan network (neighbors in the same ZIP code, seller or servicer) as three modalities: intermediate, late and residual fusion of GRUs with XGBoost, against hand-made features and a placebo for each modality. |
 | 7 | [TextBook_Lab_Chap7_Multimodal_Data.ipynb](TextBook_Lab_Chap7_Multimodal_Data.ipynb) | **Original case of the book.** Time series, static variables, images and text in one model. |
 | 8 | [TextBook_Lab_Chap8_FairnessandExplainability.ipynb](TextBook_Lab_Chap8_FairnessandExplainability.ipynb) | Fairness and explainability. |
+| New | [TextBook_Lab_Foundation_Models.ipynb](TextBook_Lab_Foundation_Models.ipynb) | **New lab (2026), beyond the book.** Foundation models for credit on the Chapter 3 mortgages: a tiny tabular foundation model (NanoDPT) pretrained on synthetic tables, the released TabDPT 1.3, a small PRAGMA-style encoder of the monthly loan histories, the two combined, and a check of how much the scores depend on the context. |
